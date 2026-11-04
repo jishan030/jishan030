@@ -1,20 +1,33 @@
 <div align="center">
 
-<img src="./assets/github-banner.gif" width="100%" alt="Jishan Khan - AWS Cloud Engineer">
+<img src="./assets/jishan-multicloud-devops.gif" width="100%" alt="Jishan Khan - Multi-Cloud & DevOps Engineer"/>
 
 # ☁️ Jishan Khan
 
-### Aspiring AWS Cloud Engineer • DevOps Enthusiast
+### 🚀 Multi-Cloud & DevOps Engineer
+
+<p>
+  Building • Automating • Deploying • Scaling on Cloud
+</p>
 
 <p>
   <a href="https://github.com/jishan030">
-    <img src="https://img.shields.io/badge/GitHub-jishan030-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-jishan030-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/DevOps-Learning-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Multi--Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Infrastructure_as_Code-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 </div>
+
+---
 
 ---
 
